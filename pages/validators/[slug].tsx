@@ -205,7 +205,7 @@ export default function ValidatorPage({
       <Head
         title={v.meta.title}
         description={v.meta.description}
-        image={`https://dotvalidators.org${v.meta.image.src}`}
+        image={`https://dotvalidators.org/assets/meta-image.png`}
         url={`https://dotvalidators.org${asPath}`}
       >
         <link rel="canonical" href={`https://dotvalidators.org${asPath}`} />
