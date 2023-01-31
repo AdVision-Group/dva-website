@@ -82,7 +82,7 @@ const Home = ({ validators }: IProps) => {
       <Head
         title="Validator Alliance"
         description="We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem"
-        image={`https://dotvalidators.org/assets/aliancelogo-v5.svg`}
+        image={`https://dotvalidators.org/assets/meta-image.png`}
         url={`https://dotvalidators.org${asPath}`}
       >
         <link rel="canonical" href={`https://dotvalidators.org${asPath}`} />
